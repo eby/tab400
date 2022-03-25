@@ -21,9 +21,5 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
-extra:
-  version:
-    provider: mike
-    default: 2022
 nav:
   - Home: index.md
