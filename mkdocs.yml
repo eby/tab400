@@ -21,5 +21,8 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - Home: index.md
