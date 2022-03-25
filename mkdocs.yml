@@ -26,3 +26,5 @@ markdown_extensions:
       custom_checkbox: true
 nav:
   - Home: index.md
+  - Overview:
+    - Equipment: equipment.md
