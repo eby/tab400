@@ -10,6 +10,7 @@ repo_name: eby/tab400
 edit_uri: ""
 plugins:
   - git-revision-date
+  - search
 extra:
   version:
     provider: mike
