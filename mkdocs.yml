@@ -1,8 +1,10 @@
 site_name: T@B 400
+copyright: CC0 1.0 Universal
 theme:
   name: material
   icon:
     repo: fontawesome/brands/github-alt
+    logo: material/campfire
   features:
     - navigation.tabs
 repo_url: https://github.com/eby/tab400
@@ -11,7 +13,17 @@ edit_uri: ""
 plugins:
   - git-revision-date
   - search
+markdown_extensions:
+  - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
 extra:
   version:
     provider: mike
     default: 2022
+nav:
+  - Home: index.md
