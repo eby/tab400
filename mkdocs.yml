@@ -1,0 +1,16 @@
+site_name: T@B 400
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github-alt
+  features:
+    - navigation.tabs
+repo_url: https://github.com/eby/tab400
+repo_name: eby/tab400
+edit_uri: ""
+plugins:
+  - git-revision-date
+extra:
+  version:
+    provider: mike
+    default: 2022
