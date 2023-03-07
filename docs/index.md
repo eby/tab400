@@ -1,5 +1,7 @@
 ---
 title: Home
+file: index
+share: true
 ---
 # T@B 400 Documentation
 
@@ -12,7 +14,7 @@ This site is my personal documentation for the 2022 T@B 400 we own which I have 
 
 We placed our order in early 2021 and it was delivered in September 2021.
 
-![Our T@B400](assets/ourtab400.jpg)
+![Our T@B400](./assets/ourtab400.jpg)
 
 Our customizations were:
 
