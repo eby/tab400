@@ -1,3 +1,8 @@
+---
+title: Equipment
+file: equipment
+share: true
+---
 # Equipment Overview
 
 ## Electrical
